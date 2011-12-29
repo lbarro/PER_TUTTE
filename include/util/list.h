@@ -9,16 +9,16 @@ struct pair_s
 
 typedef struct pair_s pair;
 
-typedef struct
+typedef struct _list_c
 {
   pair *first;
   pair *last;
-}list_c;
+} list_c;
 
 list_c *create_list(void);
 int empty_list(list_c *l);
 int add_to_list(list_c *l, void *elt);
 int add_to_end_list(list_c *l, void *elt);
-void *remove_from_list(list_c x*l);
+void *remove_from_list(list_c *l);
 
 #endif	/* LIST_H */
