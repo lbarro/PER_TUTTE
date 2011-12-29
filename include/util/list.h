@@ -1,6 +1,8 @@
 #ifndef LIST_H
 #define LIST_H
 
+// Mon commentaire
+
 struct pair_s
 {
   void *elt;
