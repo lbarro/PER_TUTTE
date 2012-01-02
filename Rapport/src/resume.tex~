@@ -1,0 +1,13 @@
+J'ai effectué mon stage dans le cadre de l'informatique décisionnelle ou \textsf{Business Intelligence} qui est un ensemble de moyens, d'outils et de méthodes qui permettent de collecter, consolider, façonner et restituer les données d'une entreprise, de manière à fournir un support pour aider à la prise de décisions. Ce type d'application utilise généralement un entrepôt de données pour stocker des données provenant de sources diverses et faire de lourds processus.
+\\
+\\
+Mon stage s'est essentiellement articulé autour de la refonte technique d'un entrepôt de données dans le but d'améliorer les performances d'accès aux données. En effet, en quête de plus de performance, le client souhaiterait optimiser la version actuelle de son entrepôt de données afin que la chaîne de traitement se déroule dans des temps acceptables. En début de projet, les traitements s’exécutaient sur plusieurs jours. 
+
+\begin{center}
+\subsubsection*{Abstract}
+\end{center}
+
+\noindent I did my internship as part of the \textsf{BI} which means Business Intelligence. \textsf{BI} is a set of means, tools and methods used to collect, consolidate, shape and restore data for a company. The goal is to provide support to assist in decision making. This type of application typically uses a data warehouse to store data from various sources and makes heavy process.
+\\
+\\
+My job was structured around the technological transformation of a data warehouse in order to improve the performance of data access. As the customer was looking for more performance, he would like to optimize the current version of his data warehouse for the processing chain took a long time. At the beginning of the project, the treatments lasted over several days.

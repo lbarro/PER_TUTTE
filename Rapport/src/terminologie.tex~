@@ -1,0 +1,104 @@
+\newpage
+
+\def\termea{\bf \footnotesize BI}
+\def\sensa{\footnotesize Business Intelligence}
+
+\def\termeb{\bf \footnotesize BO}
+\def\sensb{\footnotesize Business Objects}
+
+\def\termec{\bf \footnotesize DataMart}
+\def\sensc{\footnotesize Magasin de données, obtenu à partir de l’entrepôt de données, le magasin de données est une vue métier centrée sur un besoin fonctionnel spécifique de l’entrepôt de données générique, on parle par exemple de Datamart des Ventes, ou de Datamart des Ressources Humaines.}
+
+\def\termed{\bf \footnotesize DataWareHouse}
+\def\sensd{\footnotesize Entrepôt de données, c’est le cœur d’un système d’information décisionnel}
+
+\def\termee{\bf \footnotesize ETL}
+\def\sense{\footnotesize {\bf E}xtraction, {\bf T}ransformation, {\bf L}oading \\ & {\footnotesize Outils permettant d'extraire, de transformer et de charger les données des systèmes de production dans les systèmes décisionnels}}
+
+\def\termef{\bf \footnotesize SSII}
+\def\sensf{\footnotesize {\bf S}ociété de {\bf S}ervices et d'{\bf I}ngénierie {\bf I}nformatique \\ & {\footnotesize Société proposant des services, de la conception d'un cahier des charges à la mise en place de solutions combinant programmes, matériel et suivi clientèle. Les différents métiers d'une telle société peuvent être: conseiller, concevoir, déployer, réaliser, maintenir, ou former}}
+
+\def\termeg{\bf \footnotesize TdB}
+\def\sensg{\footnotesize Tableau(x) de bord}
+
+\def\termeh{\bf \footnotesize TMA}
+\def\sensh{\footnotesize Tierce Maintenance Applicative}
+
+\def\termei{\bf \footnotesize SID}
+\def\sensi{\footnotesize \textbf{S}ystème d'\textbf{I}nformation \textbf{D}écisionnel}
+
+\def\termej{\bf \footnotesize SIS}
+\def\sensj{\footnotesize Siemens IT Solutions and Services}
+
+\def\termek{\bf \footnotesize BDD}
+\def\sensk{\footnotesize {\bf B}ase {\bf D}e {\bf D}onnées}
+
+\def\termel{\bf \footnotesize SQL}
+\def\sensl{\footnotesize {\bf S}tructured {\bf Q}uery {\bf L}anguage \\ & {\footnotesize Un langage informatique normalisé qui sert à effectuer des opérations sur des bases de données}}
+
+\def\termem{\bf \footnotesize AIX}
+\def\sensm{\footnotesize {\bf A}dvanced {\bf I}nteractive e{\bf X}ecutive \\ & {\footnotesize Système d'exploitation de type UNIX d'IBM}}
+
+\def\termen{\bf \footnotesize LBP}
+\def\sensn{\footnotesize {\bf L}a {\bf B}anque {\bf P}ostale}
+
+\def\termeo{\bf \footnotesize DTM RSK}
+\def\senso{\footnotesize \textsf{DataMart Risque}}
+
+\def\termep{\bf \footnotesize CSDM}
+\def\sensp{\footnotesize {\bf C}ontinuous {\bf S}ervice {\bf Delivery} {\bf M}ethodology}
+
+\def\termeq{\bf \footnotesize C.A}
+\def\sensq{\footnotesize {\bf C}hiffre d'{\bf A}ffaires}
+
+\def\termer{\bf \footnotesize CSV}
+\def\sensr{\footnotesize {\bf C}omma-{\bf S}eparated {\bf V}alues \\ &  {\footnotesize Un format informatique ouvert représentant des données tabulaires. Un fichier texte où chaque ligne correspond à une rangée du tableau et les cellules d'une même rangée sont séparées par une virgule}
+}
+
+\begin{center}
+\subsubsection*{Terminologie}
+
+\begin{tabular}{|p{5cm}|p{12cm}|}
+\hline
+{\bf ~~~~~ T{\scriptsize ERME}} &  {\bf ~~~~~~~~~~~~~~~~~~~ S{\scriptsize IGNIFICATION}}\\
+\hline
+\hline
+\termea & \sensa\\
+\hline
+\termeb & \sensb\\
+\hline
+\termec & \sensc\\
+\hline
+\termed & \sensd\\
+\hline
+\termee & \sense\\
+\hline
+\termef & \sensf\\
+\hline
+\termeg & \sensg\\
+\hline
+\termeh & \sensh\\
+\hline
+\termei & \sensi\\
+\hline
+\termej & \sensj\\
+\hline
+\termek & \sensk\\
+\hline
+\termel & \sensl\\
+\hline
+\termem & \sensm\\
+\hline
+\termen & \sensn\\
+\hline
+\termeo & \senso\\
+\hline
+\termep & \sensp\\
+\hline
+\termeq & \sensq\\
+\hline
+\termer & \sensr\\
+\hline
+\end{tabular}
+
+\end{center}

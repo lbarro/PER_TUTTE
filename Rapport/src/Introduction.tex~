@@ -1,0 +1,13 @@
+\chapter*{Introduction}
+Mon stage s'est déroulé au sein de la \textsf{SSII} \textbf{ATOS}, et se plaçait dans le domaine de l'informatique décisionnelle  ou \textsf{BI}. La \textsf{BI} est un ensemble de moyens, d'outils et de méthodes qui permettent de collecter, consolider, façonner et restituer les données d'une entreprise, de manière à fournir un support pour aider à la prise de décisions. Ce type d'application utilise généralement un \textsf{DataWareHouse} pour stocker des données provenant de sources diverses et faire de lourds processus. Il s'agit de trier, traiter et présenter des données provenant de différents systèmes opérationnels, afin de les rendre facilement et rapidement accessibles aux utilisateurs pour leur faciliter la prise de décision.
+\\
+\\
+Mon stage s'est effectué essentiellement autour de la refonte technique d'un entrepôt de données dans le but d'une optimisation. Le projet \textbf{LBP DTM RSK} sur lequel il m'a été donné de travailler, s'articule autour d'un \textsf{DataMart Risque} qui subit constamment des évolutions dans le but de répondre aux nouveaux besoins et d'améliorer les performances d'accès aux données. Ceci est dû au fait que les tables, de tailles croissantes, sont bien souvent volumineuses aussi bien du point de vue du nombre de lignes que de celui du nombre de colonnes et en y associant le fait que les requêtes vont extraire leurs informations dans différentes tables, cela peut entraîner l'augmentation des temps de réponse. Ainsi des modifications perpétuelles sont apportées à l'organisation interne du \textsf{DataMart} selon les besoins du client.  
+\\
+\\
+Dans une première partie, je présenterai mon organisme d'accueil, en parlant du groupe, 
+ de son historique, de ses différentes activités et de sa division Ouest France.
+\\
+Ensuite, je donnerai plus de détails sur mon stage et le projet \textbf{LBP DTM RSK}, ainsi que les outils et langages utilisés dans le cadre du projet.
+\\
+Enfin, je donnerai un aperçu du travail effectué, des différentes optimisations réalisées, en insistant sur les tâches que j'ai effectuées dans la cadre de mon stage.

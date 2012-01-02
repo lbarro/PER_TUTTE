@@ -1,0 +1,58 @@
+\def\ecole{
+  \begin{center}
+    \textbf{École Nationale Supérieure d’Électronique, Informatique, Télécommunications, Mathématique et Mécanique de Bordeaux} \\
+    \textbf{\sf D\'epartement informatique} \\
+    1 avenue du Dr Albert Schweitzer \\
+    B.P. 99 33402 Talence Cedex
+  \end{center}
+}
+
+\def\intervenant{
+      \begin{flushleft}
+	  \begin{tabbing}
+		\textbf{Maître de stage:}
+		\hspace{8cm} \=\textbf{Étudiant:} \\
+                \noindent Raphaël {\sc Mary}
+		\> Lissy {\sc Barro}\\[0.3cm]
+                \noindent \textbf{Tuteur à l'école:}
+		\>Élève ingenieur 2ème année\\
+                \noindent David {\sc Renault}
+                \>2010/2011
+	  \end{tabbing}
+        \end{flushleft}
+}
+
+\def\titre{
+Optimisation d'un DataMart dans le cadre d'un projet décisionnel
+}
+\def\resume{
+J'ai effectué mon stage dans le cadre de l'informatique décisionnelle  ou \textsf{Business Intelligence}. Mon stage s'est essentiellement articulé autour de la refonte technique d'un entrepôt de données dans le but d'améliorer les performances d'accès aux données.
+}
+\def\motCle{
+ETL, DataMart
+}
+\def\caracteristique{
+1 volume - 52 pages - 3 annexes
+}
+\def\travail{Rapport de Stage industriel : 2ème année / 4 mois \\ & $1^{er}$ juin - 30 septembre
+}
+\def\date{
+30 septembre 2011
+}
+
+\begin{center}
+\subsection*{Notice analytique}
+\begin{tabular}{|p{5.05cm} p{10.95cm}|}
+\hline
+\multicolumn{2}{|p{16cm}|}{\ecole}\\
+\multicolumn{2}{|p{16cm}|}{\intervenant}\\
+\hline
+{\bf Titre} : & \titre\\~&~\\
+{\bf Résumé} : & \resume\\~&~\\
+{\bf Mots clés} : & \motCle\\~&~\\
+{\bf Caractéristiques} : & \caracteristique\\~&~\\
+{\bf Type de travail et durée} : & \travail\\~&~\\
+{\bf Date de publication} : & \date\\
+\hline
+\end{tabular}
+\end{center}
